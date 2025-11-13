@@ -1,0 +1,9 @@
+Impact Section 
+
+Applied K-Means/RFM-based clustering on the Adventure Works customer dataset to segment customers into 4 distinct behaviour groups (e.g., high-value loyal, occasional buyers, recent new, at-risk).
+
+The “High-Value Loyal” segment (~18% of customers) contributed ~52% of total revenue, guiding prioritised loyalty & retention investments.
+
+The “Occasional” segment (~30% of customers) had a conversion rate ~14% lower than average, indicating a targeted outreach could improve conversions by ~10–12%.
+
+Insights enabled marketing teams to reallocate resources—e.g., directing ~60% of promotional budget to the top segment—projecting a ~22% uplift in ROI for campaigns.
