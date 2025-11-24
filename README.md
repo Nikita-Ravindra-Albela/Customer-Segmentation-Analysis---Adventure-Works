@@ -1,6 +1,6 @@
 # 👥 Customer Segmentation Dashboard (RFM Model) – Power BI
 
-This project provides a Power BI dashboard that segments customers using the **RFM (Recency, Frequency, Monetary)** model. The goal is to help businesses identify and engage different customer segments with data-driven marketing strategies.
+This project provides a Power BI dashboard that segments customers using the **RFM (Recency, Frequency, Monetary)** model. The goal is to help businesses identify and engage different customer segments with data-driven marketing strategies. 
 
 ---
 
